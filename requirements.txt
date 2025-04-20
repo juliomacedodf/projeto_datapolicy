@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+pandas==2.1.4
+pymongo==4.6.1
+requests==2.31.0
