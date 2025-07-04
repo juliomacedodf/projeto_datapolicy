@@ -15,7 +15,7 @@ Requisitos
 Docker
 Docker Compose
 
-opcional github: 
+
 
 
 Execute o Docker Compose:
